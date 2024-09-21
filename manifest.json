@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Flp Pomodoro",
+    "version": "0.0.1",
+    "description": "Um timer de pomodoro que tem o objetivo de gerenciar seu tempo de acordo com o tipo de pessoa.",
+    "action": {
+        "default_popup":"popup.html"
+        
+    },
+    "permissions": ["storage"]
+}
